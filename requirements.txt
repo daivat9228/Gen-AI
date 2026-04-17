@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+langchain-mistralai
+python-dotenv
+requests
+langchain-google-vertexai
+langchain-google-genai
+
+streamlit
