@@ -1,0 +1,12 @@
+This is a sample text file for testing LangChain's TextLoader.
+
+LangChain is a framework for developing applications powered by large language models (LLMs).
+
+It provides tools for:
+- Loading documents from various sources
+- Splitting text into chunks
+- Creating embeddings
+- Storing and retrieving vectors
+- Building chains and agents
+
+This file is used to verify that the TextLoader works correctly.
